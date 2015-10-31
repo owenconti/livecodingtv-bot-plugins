@@ -18,3 +18,12 @@ Voting system for the LCTV Bot.
 * Version: 1.0.0
 * URL: https://github.com/owenconti/lctv-bot-vote-plugin
 * NPM: Link to npm registry
+
+## API Triggers
+
+API trigger hooks available via chat messages.
+
+* Author: Owen Conti
+* Version: 1.0.0
+* URL: https://github.com/owenconti/lctv-bot-vote-api-triggers
+* NPM: Link to npm registry
