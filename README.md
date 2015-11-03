@@ -8,7 +8,7 @@ Display follower notifications on your stream via the LCTV Bot web page.
 * Author: Owen Conti 
 * Version: 1.0.0.
 * URL: https://github.com/owenconti/lctv-bot-follower-notification-plugin
-* NPM: Link to npm registry
+* NPM: https://www.npmjs.com/package/lctv-bot-follower-notification-plugin
 
 ### Vote System
 
@@ -17,7 +17,7 @@ Voting system for the LCTV Bot.
 * Author: Owen Conti
 * Version: 1.0.0
 * URL: https://github.com/owenconti/lctv-bot-vote-plugin
-* NPM: Link to npm registry
+* NPM: https://www.npmjs.com/package/lctv-bot-vote-plugin
 
 ### API Triggers
 
@@ -26,7 +26,7 @@ API trigger hooks available via chat messages.
 * Author: Owen Conti
 * Version: 1.0.0
 * URL: https://github.com/owenconti/lctv-bot-vote-api-triggers
-* NPM: Link to npm registry
+* NPM: https://www.npmjs.com/package/lctv-bot-api-triggers-plugin
 
 ### Flyouts
 
@@ -44,4 +44,4 @@ YouTube song requests/playlist management to be used with the client app.
 * Author: Owen Conti
 * Version: 1.0.0
 * URL: https://github.com/owenconti/lctv-bot-youtube-plugin
-* NPM: Link to npm registry
+* NPM: https://www.npmjs.com/package/lctv-bot-youtube-plugin
