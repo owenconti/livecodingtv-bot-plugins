@@ -19,11 +19,29 @@ Voting system for the LCTV Bot.
 * URL: https://github.com/owenconti/lctv-bot-vote-plugin
 * NPM: Link to npm registry
 
-## API Triggers
+### API Triggers
 
 API trigger hooks available via chat messages.
 
 * Author: Owen Conti
 * Version: 1.0.0
 * URL: https://github.com/owenconti/lctv-bot-vote-api-triggers
+* NPM: Link to npm registry
+
+### Flyouts
+
+Flyouts available for the client app.
+
+* Author: Owen Conti
+* Version: 1.0.0
+* URL: https://github.com/owenconti/lctv-bot-flyouts-plugin
+* NPM: Link to npm registry
+
+### YouTube
+
+YouTube song requests/playlist management to be used with the client app.
+
+* Author: Owen Conti
+* Version: 1.0.0
+* URL: https://github.com/owenconti/lctv-bot-youtube-plugin
 * NPM: Link to npm registry
