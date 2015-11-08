@@ -10,6 +10,13 @@ Display follower notifications on your stream via the LCTV Bot web page.
 * URL: https://github.com/owenconti/lctv-bot-follower-notification-plugin
 * NPM: https://www.npmjs.com/package/lctv-bot-follower-notification-plugin
 
+### Insults
+
+* Author: Owen Conti
+* Version: 1.0.0
+* URL: https://github.com/owenconti/lctv-bot-insult-plugin
+* NPM: No URL yet
+
 ### Vote System
 
 Voting system for the LCTV Bot.
